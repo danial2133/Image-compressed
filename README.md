@@ -1,1 +1,6 @@
-# Image-compressed
+- 👋 Hi I'm Daniel.
+- 👀 I'm a programmer
+- 🌱 My most activity is with Python
+- 💞️ I hope I am beneficial to you.
+- 📫 #Mahsa_Amini
+- ☣️ https://github.com/danial2133/danial2133.git
